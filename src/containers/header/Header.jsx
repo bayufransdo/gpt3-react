@@ -1,6 +1,6 @@
 /* eslint-disable react/no-unescaped-entities */
 import React from 'react';
-import tetew from './header.css';
+import './header.css';
 import people from '../../assets/people.png';
 import ai from '../../assets/ai.png';
 
