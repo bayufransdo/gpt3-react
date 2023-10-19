@@ -7,7 +7,7 @@ import {
   WhatGPT3,
   Header,
 } from './containers';
-import { CTA, Brand, Navbar } from './components';
+import { CTA, Brand, Navbar, TopButton } from './components';
 import './index.css';
 import './App.css';
 
@@ -25,6 +25,7 @@ const App = () => {
       <CTA />
       <Blog />
       <Footer />
+      <TopButton />
     </div>
   );
 };
